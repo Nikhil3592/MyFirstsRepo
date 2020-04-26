@@ -10,4 +10,9 @@ public class App
     {
         System.out.println( "Hello World! this is nikhil from pune hadapsar" );
     }
+    
+    void m2()
+    {
+        System.out.println( "m2" )
+    }   
 }
