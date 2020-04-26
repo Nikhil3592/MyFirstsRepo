@@ -11,8 +11,8 @@ public class App
         System.out.println( "Hello World! this is nikhil from pune hadapsar" );
     }
     
-    void m2()
+    void m3()
     {
-        System.out.println( "m2" )
-    }   
+    	System.out.println("m3");
+    }
 }
